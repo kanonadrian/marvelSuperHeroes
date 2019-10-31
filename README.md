@@ -1,10 +1,10 @@
 # Superheroes WEB
 
-Este proyecto esta generado en [Angular CLI](https://github.com/angular/angular-cli) version 8.3.15.
+Este proyecto está generado en [Angular CLI](https://github.com/angular/angular-cli) versión 8.3.15.
 
-# Instalar paquetes Node
+# Instalar paquetes dependencias desde nmp
 
-Run `npm install`, instala las dependencias del proyecto.
+Run `npm install`, instala dependencias del proyecto.
 
 ## Correr servidor local
 
